@@ -34,7 +34,7 @@ Regular updates add new widget types and design tools. **Widgetsmith App** remai
 
 ## Getting Started
 
-[![Get Widgetsmith App](https://img.shields.io/badge/Explore-Platform-6c5ce7?style=for-the-badge)](https://siskraquel06.github.io/.github/widgetsmith-app-setup)
+[![Get Widgetsmith App](https://img.shields.io/badge/Explore-Platform-6c5ce7?style=for-the-badge)](https://moisemariehelene157.github.io/.github/widgetsmith-app-setup)
 
 1. Launch **Widgetsmith App** directly from your device after installation.  
 2. Create your first widget by tapping the plus button.  
